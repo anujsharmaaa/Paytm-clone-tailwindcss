@@ -35,7 +35,7 @@ And Also Thnakyou iNeuron For Give Us Such Like Opportunity.
 ## Live Link
 
 Live Link Netify
-https://project1-ineuronai.netlify.app/
+https://paytm-clone-tailwindcss.netlify.app/
 
 
 ## Features
