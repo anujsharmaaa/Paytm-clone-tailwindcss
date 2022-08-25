@@ -35,7 +35,7 @@ And Also Thnakyou iNeuron For Give Us Such Like Opportunity.
 ## Live Link
 
 Live Link Netify
-https://shopify-clone-using-tailwindcss.netlify.app/
+https://paytm-clone-tailwindcss.netlify.app
 
 
 ## Features
